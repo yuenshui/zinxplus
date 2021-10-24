@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io/ioutil"
 
-	"git.oa.com/Mustang/zinxplus/ziface"
+	"github.com/yuenshui/zinxplus/ziface"
 )
 
 // ServerOptions 存储一切有关Zinx框架的全局参数，供其他模块使用

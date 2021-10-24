@@ -1,4 +1,4 @@
-module git.oa.com/Mustang/zinxplus
+module github.com/yuenshui/zinxplus
 
 go 1.17
 

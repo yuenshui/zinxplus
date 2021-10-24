@@ -5,8 +5,8 @@ import (
 	"net"
 	"reflect"
 
-	"git.oa.com/Mustang/zinxplus/utils"
-	"git.oa.com/Mustang/zinxplus/ziface"
+	"github.com/yuenshui/zinxplus/utils"
+	"github.com/yuenshui/zinxplus/ziface"
 )
 
 // Server 接口实现，定义一个Server服务类

@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strconv"
 
-	"git.oa.com/Mustang/zinxplus/utils"
-	"git.oa.com/Mustang/zinxplus/ziface"
+	"github.com/yuenshui/zinxplus/utils"
+	"github.com/yuenshui/zinxplus/ziface"
 
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"

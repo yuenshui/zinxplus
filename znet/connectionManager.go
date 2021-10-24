@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"git.oa.com/Mustang/zinxplus/ziface"
+	"github.com/yuenshui/zinxplus/ziface"
 )
 
 // ConnectionManager 连接管理模块

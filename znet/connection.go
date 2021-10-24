@@ -10,8 +10,8 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"git.oa.com/Mustang/zinxplus/utils"
-	"git.oa.com/Mustang/zinxplus/ziface"
+	"github.com/yuenshui/zinxplus/utils"
+	"github.com/yuenshui/zinxplus/ziface"
 )
 
 // Connection 链接
