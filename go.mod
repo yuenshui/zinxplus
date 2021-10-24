@@ -1,0 +1,5 @@
+module git.oa.com/Mustang/zinxplus
+
+go 1.17
+
+require google.golang.org/protobuf v1.27.1
